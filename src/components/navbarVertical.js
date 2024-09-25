@@ -1,6 +1,6 @@
 function NavbarVertical() {
   return (
-    <div>
+    <div className="">
       <p>Esto es una navbar</p>
     </div>
   );
